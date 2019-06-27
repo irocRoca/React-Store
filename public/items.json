@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Plain TShirt",
+    "price": 14.0,
+    "id": 1,
+    "url": "https://i5.walmartimages.com/asr/7126e151-5a80-428f-b34f-5c3f171823a8_1.46adc136d927f5c305ef42471cb62906.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Plain TShirt",
+    "qty": 1
+  },
+  {
+    "title": "Short Sleeve Button up",
+    "price": 17.99,
+    "id": 2,
+    "url": "https://i5.walmartimages.com/asr/88ec240e-533e-4fac-a015-2d98e3d1c9f0_1.13d6b6b63aa2ad9a38784f8739521c54.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Short Sleeve Button up",
+    "qty": 1
+  },
+  {
+    "title": "Long Sleeve Shirt",
+    "price": 9.99,
+    "id": 3,
+    "url": "https://i5.walmartimages.com/asr/317bd0f0-2482-401f-b70b-01fa593bbdb2_1.21bad14e21db79849bb27b2cfb4ed70f.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Long Sleeve Shirt",
+    "qty": 1
+  },
+  {
+    "title": "Fleece Hoodie",
+    "price": 69.99,
+    "id": 4,
+    "url": "https://i5.walmartimages.com/asr/f0367bf7-3d12-4bc0-8b28-cf5c011f2194_1.2d7bc56b919e22d3eabf1fd207c8260f.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Fleece Hoodie",
+    "qty": 1
+  },
+  {
+    "title": "Long Sleeve Work Shirt",
+    "price": 59.99,
+    "id": 5,
+    "url": "https://i5.walmartimages.com/asr/aa1b5b5b-5601-4dd5-a674-a6016958ee46_1.c0331aa61d6158d79346161f121212ce.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Long Sleeve Work Shirt",
+    "qty": 1
+  },
+  {
+    "title": "Dress Shirt",
+    "price": 29.99,
+    "id": 6,
+    "url": "https://i5.walmartimages.com/asr/71d58bae-9b0b-4060-a48a-766d41db187f_1.ce2e2028769eff13c6d8747742054428.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Dress Shirt",
+    "qty": 1
+  },
+  {
+    "title": "Shirt",
+    "price": 99.99,
+    "id": 7,
+    "url": "https://i5.walmartimages.com/asr/e08fa945-fce0-4aeb-a6ff-894d9e6b875b_1.1385b81dd484c062c2c83babf90e0900.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Shirt",
+    "qty": 1
+  },
+  {
+    "title": "Shirt",
+    "price": 19.99,
+    "id": 8,
+    "url": "https://i5.walmartimages.com/asr/6d5025ce-3aab-437b-b083-b335aa7cbace_1.97caf16e4bce6873ad093be70fabaedd.jpeg?odnWidth=282&odnHeight=376&odnBg=ffffff",
+    "alt": "Shirt",
+    "qty": 1
+  }
+]
